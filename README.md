@@ -1,6 +1,6 @@
 ## Bem vindo ao meu GitHub
 
-<img src="https://tenor.com/view/anime-love-heart-snap-gif-10805514">
+<img src="https://media1.tenor.com/images/cf20ebeadcadcd54e6778dac16357644/tenor.gif?itemid=10805514">
 
 # Sobre mim
  Meu nome é Aron, tenho 20 anos, trabalho com ReactJS e NodeJS, atualmente estou estudando Front-end.
