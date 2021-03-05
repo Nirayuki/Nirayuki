@@ -11,4 +11,4 @@ ReactJS, CSS, JS, HTML
 
 # 
 
-<img src="https://media1.tenor.com/images/cf20ebeadcadcd54e6778dac16357644/tenor.gif?itemid=10805514" align="center">
+<img src="https://media1.tenor.com/images/cf20ebeadcadcd54e6778dac16357644/tenor.gif?itemid=10805514" align="right">
