@@ -12,7 +12,7 @@
 ReactJS, CSS, JS, HTML
 
 
-[![Nirayuki's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nirayuki](https://github.com/nirayuki)
+[![Kalecio's most used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nirayuki)](https://github.com/Nirayuki)
 
 
 #
