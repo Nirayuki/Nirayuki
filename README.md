@@ -12,9 +12,7 @@
 ReactJS, CSS, JS, HTML
 
 
-<p align="center">
   [![Nirayuki's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nirayuki](https://github.com/nirayuki)
- </p>
 
 
 #
