@@ -1,14 +1,17 @@
-# Bem vindo ao meu GitHub
+# Welcome
 
 <p align="center">
 <img src="https://media1.tenor.com/images/52ea7d449a5402030a3432fd3c94aa99/tenor.gif?itemid=13119051">
 </p>
 
 
-## Sobre mim
+## About me
+
+ My name is Aron, I'm 20 years old, I work with ReactJS and NodeJS, currently I'm studying Front-end.
+
  Meu nome é Aron, tenho 20 anos, trabalho com ReactJS e NodeJS, atualmente estou estudando Front-end.
 
-## Amo
+## Love
 ReactJS, CSS, JS, HTML
 
 
