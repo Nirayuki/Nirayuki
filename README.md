@@ -4,18 +4,15 @@
 <img src="https://media1.tenor.com/images/52ea7d449a5402030a3432fd3c94aa99/tenor.gif?itemid=13119051">
 </p>
 
-
-## About me
-
- My name is Aron, I'm 20 years old, I work with ReactJS and NodeJS, currently I'm studying Front-end.
-
- Meu nome é Aron, tenho 20 anos, trabalho com ReactJS e NodeJS, atualmente estou estudando Front-end.
-
-## Love
-ReactJS, CSS, JS, HTML
-
-
-[![Kalecio's most used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nirayuki)](https://github.com/Nirayuki)
+```javascript
+const Nirayuki = {
+    age: 20,
+    country: 'Brazil',
+    city: 'Toledo, Paraná',
+    stack: ['HTML','SASS','Javascript','PostgreSQL', 'MySQL' ,'Express', 'React', 'NodeJS', 'SpringBoot', 'NextJS'],
+    hobbies: ['Game', 'Anime', 'Music']
+};
+```
 
 
 #
