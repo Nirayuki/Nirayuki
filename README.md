@@ -18,7 +18,7 @@ const Nirayuki = {
 <h3>About me:</h3>
 
 <p align="left">
-    💼 Working at GermanTech 
+    💼 Working at Gazeta de Toledo
 </p>
 
 <p align="left">
