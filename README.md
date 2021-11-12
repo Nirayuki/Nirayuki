@@ -6,7 +6,7 @@
 
 ```javascript
 const Nirayuki = {
-    age: 20,
+    age: 21,
     country: 'Brazil',
     city: 'Toledo, Paraná',
     stack: ['HTML','SASS','Javascript','PostgreSQL', 'MySQL' ,'Express', 'React', 'NodeJS', 'SpringBoot', 'NextJS'],
