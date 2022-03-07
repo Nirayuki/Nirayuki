@@ -8,9 +8,9 @@
 const Nirayuki = {
     age: 21,
     country: 'Brazil',
-    city: 'Toledo, Paraná',
-    stack: ['HTML','SASS','Javascript','PostgreSQL', 'MySQL' ,'Express', 'React', 'NodeJS', 'SpringBoot', 'NextJS'],
-    hobbies: ['Game', 'Anime', 'Music']
+    knowledge: ['HTML','Styled-Components','Javascript','PostgreSQL', 'MySQL' ,'Express', 'React', 'NodeJS', 'SpringBoot', 'NextJS'],
+    hobbies: ['Cybersecurity', 'Rootkits', 'Malware', 'Expolits', 'Anime'],
+    whatami: ['New in Cybersecurity', 'Green Hat']
 };
 ```
 
@@ -18,15 +18,11 @@ const Nirayuki = {
 <h3>About me:</h3>
 
 <p align="left">
-    💼 Working at Gazeta de Toledo
-</p>
-
-<p align="left">
     📫 How to reach me: <a href = "mailto: aronkerk8@gmail.com"> e-mail </a>
 </p>
 
 <p align="left">
-    👨‍💻 I’m currently learning Spring boot and web development
+    👨‍💻 I’m currently learning NodeJS, Ethical Hacking, Malware develop and others stuffs
 </p>
 
 #
