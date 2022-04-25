@@ -14,7 +14,7 @@ const Nirayuki = {
 ```
 
 
-<h3>About me:</h3>
+<h3>Sobre mim:</h3>
 
 <p align="left">
     📫 Entre em contato: <a href = "mailto: aronkerk8@gmail.com"> e-mail </a>
