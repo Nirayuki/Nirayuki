@@ -1,7 +1,6 @@
 # Welcome
 
 <p align="center">
-<img src="https://media1.tenor.com/images/52ea7d449a5402030a3432fd3c94aa99/tenor.gif?itemid=13119051">
 </p>
 
 ```javascript
