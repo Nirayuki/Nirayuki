@@ -17,11 +17,15 @@ const Nirayuki = {
 <h3>About me:</h3>
 
 <p align="left">
-    📫 How to reach me: <a href = "mailto: aronkerk8@gmail.com"> e-mail </a>
+    📫 Entre em contato: <a href = "mailto: aronkerk8@gmail.com"> e-mail </a>
 </p>
 
 <p align="left">
-    👨‍💻 I’m currently learning NodeJS, Ethical Hacking, Malware develop and others stuffs
+    👨‍💻 Estou atualmente aprendendo NodeJS, Hack Etico, Desenvolvimento de Malware, Desenvolvimento Mobile em Flutter e outras coisas.
+</p>
+
+<p align="left">
+    💻 Estou desenvolvendo meu TCC atualmente com a liguagem Flutter e backend em NodeJS usando o MYSQL como banco de dados.
 </p>
 
 #
