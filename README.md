@@ -5,7 +5,7 @@
 
 ```javascript
 const Nirayuki = {
-    age: 21,
+    age: 22,
     country: 'Brazil',
     knowledge: ['HTML','Styled-Components','Javascript','PostgreSQL', 'MySQL' ,'Express', 'React', 'NodeJS', 'SpringBoot', 'NextJS'],
     hobbies: ['Cybersecurity', 'Rootkits', 'Malware', 'Expolits', 'Anime'],
