@@ -21,11 +21,11 @@ const Nirayuki = {
 </p>
 
 <p align="left">
-    👨‍💻 Estou atualmente aprendendo NodeJS, Hack Etico, Desenvolvimento de Malware, Desenvolvimento Mobile em Flutter e outras coisas.
+    👨‍💻 Estou atualmente aprendendo NodeJS, ReactJS, MySQL.
 </p>
 
 <p align="left">
-    💻 Estou desenvolvendo meu TCC atualmente com a liguagem Flutter e backend em NodeJS usando o MYSQL como banco de dados.
+    💻 Estou desenvolvendo um apicativo Kanban para controle de projetos.
 </p>
 
 #
