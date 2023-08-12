@@ -32,6 +32,6 @@ const Nirayuki = {
 
 
 <p align="center">
-<img alt="Discord" src="https://img.shields.io/badge/Discord-Nirayuki 8054-%237159c1?style=for-the-badge&logo=discord">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-nirayuki-%237159c1?style=for-the-badge&logo=discord">
 <img
 </p>
