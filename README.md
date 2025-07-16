@@ -17,15 +17,15 @@ const Nirayuki = {
 <h3>Sobre mim:</h3>
 
 <p align="left">
-    📫 Entre em contato: <a href = "mailto: aronkerk8@gmail.com"> e-mail </a>
+    📫 Contact me: <a href = "mailto: aronkerk8@gmail.com"> e-mail </a>
 </p>
 
 <p align="left">
-    👨‍💻 Estou atualmente aprendendo NodeJS, ReactJS, MySQL.
+    👨‍💻 Currently working with ReactJS, Material-UI, NX, Monorepo.
 </p>
 
 <p align="left">
-    💻 Estou desenvolvendo um apicativo Kanban para controle de projetos.
+    💻 I'm working on my skills and looking for a job.
 </p>
 
 #
